@@ -42,14 +42,10 @@
 
 ###
 
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nabilghenissa/nabilghenissa/snake.yml" alt="Snake animation" />
-
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nabilghenissa/nabilghenissa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nabilghenissa/nabilghenissa/output/snake.yml" alt="Snake animation" />
 
 ###
 
